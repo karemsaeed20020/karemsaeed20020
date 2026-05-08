@@ -43,11 +43,6 @@ Full Stack Developer with **1+ year** of production frontend experience (React) 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -56,6 +51,7 @@ Full Stack Developer with **1+ year** of production frontend experience (React) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Unit Testing](https://img.shields.io/badge/Unit%20Testing-6DB33F?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,js,react,next,angular,tailwind,materialui,bootstrap,jquery,html,css,sass,git,github,vite" alt="ts,js,react,next,angular,tailwind,materialui,bootstrap,jquery,html,css,sass,git,github,vite,vscode,yarn,npm,pnpm,postman,nodejs,figma" />
 
 ---
 
@@ -97,9 +93,12 @@ Full Stack Developer with **1+ year** of production frontend experience (React) 
 </div>
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adhamdr1/adhamdr1/output/github-contribution-grid-snake-dark.svg" height="176" />
-</p>
+## 🐍 GitHub Contributions
+
+<div align="center">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Kerolos2000/Kerolos2000/output/snake.svg" />
+</div>
+>
 
 ## 💬 Languages
 
