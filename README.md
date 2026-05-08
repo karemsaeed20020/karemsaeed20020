@@ -101,6 +101,12 @@ Full Stack Developer with **1+ year** of production frontend experience (React) 
   <img src="https://raw.githubusercontent.com/adhamdr1/adhamdr1/output/github-contribution-grid-snake-dark.svg" height="176" />
 </p>
 
+## 💬 Languages
+
+- 🇬🇧 **English:** Professional Proficiency
+- 🇪🇬 **Arabic:** Native Speaker
+
+---
 
 ## 🤝 Connect
 
